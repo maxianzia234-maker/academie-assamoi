@@ -36,3 +36,5 @@ Maxime Assamoi
 ## 📌 Lien du projet
 https://github.com/maxianzai234-maker/academie-assamoi
 ![Aperçu de l'application](./screenshot.png)
+## 📌 Statut du projet
+🚧 En cours de développement
